@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "986979746546",
-    "project_id": "nagram-x",
-    "storage_bucket": "nagram-x.firebasestorage.app"
+    "project_number": "619612946303",
+    "project_id": "nagramx-lutit",
+    "storage_bucket": "nagramx-lutit.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:986979746546:android:f63a8620cbea5950dcc66b",
+        "mobilesdk_app_id": "1:619612946303:android:fbbfc27c4c1caa5e0ee44a",
         "android_client_info": {
           "package_name": "nu.gpu.nagram"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAzMqM8tLgsWIvmEyfZRS95ubX-TXiNB3w"
+          "current_key": "AIzaSyC78W0OBbdlJ_fOCFWvpgUYaSVNtya6BDs"
         }
       ],
       "services": {
